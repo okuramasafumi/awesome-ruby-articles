@@ -3,6 +3,7 @@
 # 一般
 
 # ハウツー
+* [has_many :through の関連に同一モデルを含む場合【rails4】](http://www.coma-tech.com/archives/223/) - 売手と買手がある製品を取引するという状況の設計例
 
 # セキュリティ
 
