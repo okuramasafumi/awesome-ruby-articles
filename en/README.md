@@ -2,6 +2,10 @@ This list curates awesome Ruby articles from Web. It's maintained by @okuramasaf
 
 # General
 
+# Versions
+
+## 2.6
+
 # Tips
 
 # Security

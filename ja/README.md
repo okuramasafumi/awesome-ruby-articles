@@ -2,6 +2,14 @@
 
 # 一般
 
+# 各バージョン
+
+## 2.6
+
+* [プロと読み解く Ruby 2.6 NEWS ファイル](https://techlife.cookpad.com/entry/2018/12/25/110240) - NEWSファイルを開発者自ら解説
+* [Ruby 2.6 の改善を自慢したい](https://techlife.cookpad.com/entry/2018/12/27/093914) - @ko1による2.6の改善解説
+* [サンプルコードでわかる！Ruby 2.6の主な新機能と変更点](https://qiita.com/jnchito/items/ce11cb7fccdf4b66af24) - @jnchitoによる解説
+
 # ハウツー
 * [has_many :through の関連に同一モデルを含む場合【rails4】](http://www.coma-tech.com/archives/223/) - 売手と買手がある製品を取引するという状況の設計例
 
