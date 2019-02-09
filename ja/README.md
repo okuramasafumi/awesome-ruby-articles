@@ -17,6 +17,10 @@
 
 # パフォーマンス
 
+# テスト
+
+* [RSpecで悲観的ロックのテストを書く](http://tech.hitomedia.jp/entry/2018/03/16/120249) - 悲観的ロックのテスト方法
+
 # 初学者向け
 
 * [RubyとRailsの学習ガイド2019年版](https://magazine.rubyist.net/articles/0059/0059-Ruby-Rails-Beginners-Guide.html) - 初学者向けにRubyやRailsの技術全体のガイドマップを図示し、資料の紹介をする記事
