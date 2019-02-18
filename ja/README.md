@@ -4,6 +4,10 @@
 
 * [Railsは2019年も「あり」か？#3 短所と不向きな用途、他の選択肢など（翻訳）](https://techracho.bpsinc.jp/hachi8833/2019_01_31/68875) - Railsの短所および不向きな用途について言及している
 
+# Rails
+
+* [DHHはどのようにRailsのコントローラを書くのか](https://postd.cc/how-dhh-organizes-his-rails-controllers/) - Railsのコントローラの書き方に関する古典
+
 # 各バージョン
 
 ## 2.6
