@@ -2,11 +2,11 @@
 
 # 一般
 
-* [Railsは2019年も「あり」か？#3 短所と不向きな用途、他の選択肢など（翻訳）](https://techracho.bpsinc.jp/hachi8833/2019_01_31/68875) - Railsの短所および不向きな用途について言及している
-
 # Rails
 
 * [DHHはどのようにRailsのコントローラを書くのか](https://postd.cc/how-dhh-organizes-his-rails-controllers/) - Railsのコントローラの書き方に関する古典
+* [Railsは2019年も「あり」か？#3 短所と不向きな用途、他の選択肢など（翻訳）](https://techracho.bpsinc.jp/hachi8833/2019_01_31/68875) - Railsの短所および不向きな用途について言及している
+* [has_many :through の関連に同一モデルを含む場合【rails4】](http://www.coma-tech.com/archives/223/) - 売手と買手がある製品を取引するという状況の設計例
 
 # 各バージョン
 
@@ -17,7 +17,6 @@
 * [サンプルコードでわかる！Ruby 2.6の主な新機能と変更点](https://qiita.com/jnchito/items/ce11cb7fccdf4b66af24) - @jnchitoによる解説
 
 # ハウツー
-* [has_many :through の関連に同一モデルを含む場合【rails4】](http://www.coma-tech.com/archives/223/) - 売手と買手がある製品を取引するという状況の設計例
 
 # セキュリティ
 
