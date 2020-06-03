@@ -1,4 +1,4 @@
-This list curates awesome Ruby articles from Web. It's maintained by @okuramasafumi and expanded byy volunteers.
+This list curates awesome Ruby articles from Web. It's maintained by @okuramasafumi and expanded by volunteers.
 
 # General
 
